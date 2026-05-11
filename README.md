@@ -1,7 +1,42 @@
-## Agentic AI Crash Course using Langgraph
+# LangGraph Agentic AI Projects
 
-### Setup Instructions
-1. Rename sample.env to .env file and add your keys. You can find the instructions on key generation through the YouTube video on codebasics channel
-2. Follow YouTube video instructions to install uv, PyCharm pro and other packages
+This repository contains multiple hands-on projects and workflows built using LangGraph and Python.
 
+## Features
+- Simple Graph Workflows
+- Conditional Graph Routing
+- AI Chatbot using LangGraph
+- Tool Calling Agents
+- Memory Handling
+- Human-in-the-Loop (HITL)
+- LangSmith Tracing
+- Agentic AI Workflows
 
+## Tech Stack
+- Python
+- LangGraph
+- LangChain
+- OpenAI/Groq LLMs
+- LangSmith
+
+## Projects Included
+1. Simple Graph Workflow
+2. Conditional Graph
+3. AI Chatbot
+4. Tool Calling
+5. Tool Calling Agent
+6. Memory Handling
+7. LangSmith Tracing
+8. Human-in-the-Loop Workflow
+
+## Learning Outcomes
+- State management in LangGraph
+- Agent workflow orchestration
+- Tool integration with LLMs
+- Memory implementation
+- Multi-step AI pipelines
+
+## Installation
+
+```bash
+pip install -r requirements.txt
